@@ -1,0 +1,4 @@
+Name: Annmol Francis
+College: Sahrdaya College of Engineering and Technology
+CGPA: 8.9
+Stack: Python, FastAPI, React, Firebase, Gemini API
