@@ -1,0 +1,5 @@
+Git commands I'm learning:
+- git status
+- git add
+- git commit
+- git push
